@@ -20,7 +20,7 @@
       <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
       <version.furnace>2.22.9.Final</version.furnace>
       <!-- Change the slf4j version here -->
-      <version.assertj>3.6.2</version.assertj>
+      <version.assertj>3.27.7</version.assertj>
    </properties>
    <dependencies>
       <dependency>
